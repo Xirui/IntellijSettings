@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="guava-21.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Documents/workspace/PlayGround/lib/guava-21.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
