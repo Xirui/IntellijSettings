@@ -26,6 +26,10 @@
           <option name="url" value="https://bitbucket.org/aucklandictgradschool/2017s_industry_lab_05.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/aucklandictgradschool/2018a_industry_lab_05.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/COMP568-18A (HAM) - Programming for Industry/lab" />
